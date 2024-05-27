@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bharath
 - 👀 I’m interested in Tech
-- 🌱 I’m currently in DevOps
+- 🌱 I’m currently Software developer
 - 📫 How to reach me : dudipallabharathkumar@gmail.com
 
 <!---
